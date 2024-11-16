@@ -32,8 +32,8 @@ To run the producer:
 ```sh
 node [producer.js](http://_vscodecontentref_/1)
 
-![Email Queue in Rabbitmq when workers are not running]("C:\Users\User\Desktop\Troisième[2024-2025]\Troisième Semestre I [2024-2025]\Intégration des applications d'entreprises\Rabbitmq Queue.jpg")
+![Email Queue in Rabbitmq when workers are not running](C:\Users\User\Desktop\Troisième[2024-2025]\Troisième Semestre I [2024-2025]\Intégration des applications d'entreprises\Rabbitmq Queue.jpg)
 
-![Workers Waiting]("C:\Users\User\Desktop\Troisième[2024-2025]\Troisième Semestre I [2024-2025]\Intégration des applications d'entreprises\WorkersWaiting.jpg")
+![Workers Waiting](C:\Users\User\Desktop\Troisième[2024-2025]\Troisième Semestre I [2024-2025]\Intégration des applications d'entreprises\WorkersWaiting.jpg)
 
-![Workers Upon Success]("C:\Users\User\Desktop\Troisième[2024-2025]\Troisième Semestre I [2024-2025]\Intégration des applications d'entreprises\WorkersUponSuccess.jpg")
+![Workers Upon Success](C:\Users\User\Desktop\Troisième[2024-2025]\Troisième Semestre I [2024-2025]\Intégration des applications d'entreprises\WorkersUponSuccess.jpg)
