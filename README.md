@@ -30,10 +30,14 @@ The producer sends email messages to the `emailQueue`.
 
 To run the producer:
 ```sh
-node [producer.js](http://_vscodecontentref_/1)
+node [producer.js]
+```
 
-![Email Queue in Rabbitmq when workers are not running](C:\Users\User\Desktop\Troisième[2024-2025]\Troisième Semestre I [2024-2025]\Intégration des applications d'entreprises\Rabbitmq Queue.jpg)
+To run the producer:
+```sh
+node [worker.js] <workerId>
 
-![Workers Waiting](C:\Users\User\Desktop\Troisième[2024-2025]\Troisième Semestre I [2024-2025]\Intégration des applications d'entreprises\WorkersWaiting.jpg)
 
-![Workers Upon Success](C:\Users\User\Desktop\Troisième[2024-2025]\Troisième Semestre I [2024-2025]\Intégration des applications d'entreprises\WorkersUponSuccess.jpg)
+![Email Queue in Rabbitmq when workers are not running](./ReadmeImages/Rabbitmq%20Queue.jpg)
+![Workers Waiting](./readmeimages/WorkersWaiting.jpg)
+![Workers Upon Success](./readmeimages/WorkersUponSuccess.jpg)
