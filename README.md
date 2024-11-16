@@ -36,7 +36,7 @@ node [producer.js]
 To run the producer:
 ```sh
 node [worker.js] <workerId>
-
+```
 
 ![Email Queue in Rabbitmq when workers are not running](./ReadmeImages/Rabbitmq%20Queue.jpg)
 ![Workers Waiting](./readmeimages/WorkersWaiting.jpg)
