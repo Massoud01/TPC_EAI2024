@@ -1,4 +1,4 @@
-// publisher.js
+
 const amqp = require('amqplib');
 
 async function sendMessages() {
