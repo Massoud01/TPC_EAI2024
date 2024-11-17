@@ -32,8 +32,8 @@ To run the producer:
 ```sh
 node [producer.js]
 ```
-
-To run the producer:
+### Worker
+To run the worker:
 ```sh
 node [worker.js] <workerId>
 ```
