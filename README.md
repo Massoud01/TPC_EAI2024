@@ -37,10 +37,10 @@ To run the worker:
 ```sh
 node [worker.js] <workerId>
 ```
-Email Queue:
+### Email Queue:
 ![Email Queue in Rabbitmq when workers are not running](./ReadmeImages/Rabbitmq%20Queue.jpg)
-Workers Waiting:
+### Workers Waiting:
 ![Workers Waiting](./ReadmeImages/WorkersWaiting.jpg)
-Workers Upon Success:
+### Workers Upon Success:
 ![Workers Upon Success](./ReadmeImages/WorkersUponSuccess.jpg)
 
